@@ -1,0 +1,13 @@
+{
+  "cSpell.words": ["labstack", "nemmy", "uptrace", "openapi"],
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.insertSpaces": false
+  },
+  "go.lintTool": "golangci-lint"
+  // "go.lintFlags": ["--config=${workspaceFolder}/.golangci.yml"]
+}
